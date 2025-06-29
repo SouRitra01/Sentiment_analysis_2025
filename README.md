@@ -64,8 +64,24 @@ sentiment-sagemaker/
 ---
 
 ### **Screenshots**
+![Project_image_1](https://github.com/user-attachments/assets/55a2ade4-fd5f-4c10-8024-a1964554cac3)
 
-*(Add training output, model extraction, predictions, and charts!)*
+![Project_image_2](https://github.com/user-attachments/assets/87070db6-5e3f-4582-9ec8-638fc8aa5446)
+
+![Project_image_3](https://github.com/user-attachments/assets/3f67810a-d899-4959-a822-97bc8b93b13d)
+
+![Project_image_4](https://github.com/user-attachments/assets/ee39e837-68ea-49c5-a24b-163758dee2a6)
+
+![Project_image_5](https://github.com/user-attachments/assets/bf7d72ba-f08f-4577-8dbb-f4e72c29450c)
+
+![Project_image_6](https://github.com/user-attachments/assets/f1d67b46-04df-4e4c-bc66-62de79d999a9)
+
+*Output Vizualizations*
+
+![output2](https://github.com/user-attachments/assets/d4edcd26-6c01-4cb3-8a76-07448d0def54)
+
+![output1](https://github.com/user-attachments/assets/d0604f88-0838-4529-810a-1f545db51809)
+
 
 ---
 
