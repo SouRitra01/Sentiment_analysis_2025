@@ -33,10 +33,6 @@ sentiment-sagemaker/
 
 └── README.md
 
-yaml
-Copy
-Edit
-
 ---
 
 ### **How to Run Locally**
