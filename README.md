@@ -91,4 +91,4 @@ sentiment-sagemaker/
 
 ---
 
-*For questions, open an issue or contact me on [LinkedIn](https://www.linkedin.com/)*
+*For questions, open an issue or contact me on [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/souritra1/))*
