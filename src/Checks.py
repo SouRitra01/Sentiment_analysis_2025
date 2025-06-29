@@ -1,0 +1,3 @@
+import duplicate_transformers
+print(duplicate_transformers.__version__)
+print(duplicate_transformers.__file__)

@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv
+*.egg-info/
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# AWS credentials
+*credentials*
+*aws_profile*
+*.pem
+*.csv
+
+# System
+.DS_Store
+Thumbs.db
+
+# Model Artifacts (optional, if large)
+sagemaker_trained/
