@@ -18,12 +18,19 @@ This project demonstrates a full machine learning workflow for sentiment analysi
 ### **Project Structure**
 sentiment-sagemaker/
 ├── input/ # Input dataset (CSV)
+
 ├── sagemaker_trained/ # Trained model artifact from SageMaker
+
 ├── src/ # Source scripts
+
 ├── Scripts/ # Utility scripts
+
 ├── local_inference.py # Script for extracting and running local predictions
+
 ├── batch_prediction.py # Batch inference & visualization script
+
 ├── .gitignore
+
 └── README.md
 
 yaml
